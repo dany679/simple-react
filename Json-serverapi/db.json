@@ -1,0 +1,86 @@
+{
+  "climas": [
+    {
+      "id": 1,
+      "tipo": "tropical"
+    },
+    {
+      "id": 2,
+      "tipo": "dessertico"
+    },
+    {
+      "id": 3,
+      "tipo": "subtropical"
+    },
+    {
+      "id": 4,
+      "tipo": "temperado"
+    },
+    {
+      "id": 5,
+      "tipo": "mediterrâneo"
+    },
+    {
+      "id": 5,
+      "tipo": "montanhoso"
+    }
+  ],
+  "destinos": [
+    {
+      "local": "Deserto",
+      "Preco": 120.8,
+      "about": " local quente e seco com auto numero de turistas ",
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_960_720.jpg",
+      "climaId": 2,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "local": "Museu",
+      "about": " local quente e seco com auto numero de turistas ",
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_960_720.jpg",
+      "Preco": 120,
+      "climaId": 4
+    },
+    {
+      "id": 5,
+      "local": "Carnaval",
+      "about": " local quente e seco com auto numero de turistas ",
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_960_720.jpg",
+      "Preco": 120,
+      "climaId": 3
+    },
+    {
+      "local": "teste de adicionar",
+      "Preco": 120,
+      "about": " local quente e seco com auto numero de turistas ",
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_960_720.jpg",
+      "climaId": 3,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "local": "teste de adicionar",
+      "about": " local quente e seco com auto numero de turistas ",
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_960_720.jpg",
+      "Preco": 120,
+      "climaId": 3
+    },
+    {
+      "local": "sei la",
+      "Preco": "900",
+      "about": "sei la",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/12/27/12/07/sunrise-5863751_960_720.png",
+      "climaId": 5,
+      "id": 17
+    },
+    {
+      "local": "ee",
+      "Preco": 14.5,
+      "about": "teste",
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_960_720.jpg",
+      "climaId": 1,
+      "id": 18
+    }
+  ]
+}

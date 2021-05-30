@@ -1,0 +1,16 @@
+.dimin{
+    width: 10%;
+}
+.card{
+    width: 18rem;
+}
+.aplicarCentro{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+a:link 
+{ 
+ text-decoration:none; 
+ color: rgb(0, 100, 107);
+} 

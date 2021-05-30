@@ -1,0 +1,46 @@
+{
+  "climas": [
+    {
+      "id": 1,
+      "local": "tropical"
+    },
+    {
+      "id": 2,
+      "local": "dessertico"
+    },
+    {
+      "id": 3,
+      "local": "subtropical"
+    },
+    {
+      "id": 4,
+      "local": "temperado"
+    },
+    {
+      "id": 5,
+      "local": "mediterrâneo"
+    }
+  ],
+  "destinos": [
+    {
+      "id": 1,
+      "local": "praia"
+    },
+    {
+      "id": 2,
+      "local": "Montanha"
+    },
+    {
+      "id": 3,
+      "local": "Deserto"
+    },
+    {
+      "id": 4,
+      "local": "Museu"
+    },
+    {
+      "id": 5,
+      "local": "Carnaval"
+    }
+  ]
+}
