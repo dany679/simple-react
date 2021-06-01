@@ -13,7 +13,7 @@ import MyFooter from './Pages/Footer/Footer';
 function App() {
   return (
     <>
-      <Myhomer />
+      {/* <Myhomer /> */}
       <BrowserRouter>
         <MyHeader />
         <Container>
