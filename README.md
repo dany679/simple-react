@@ -14,9 +14,7 @@
 
 <br>
 
-<p align="center">
-  por favor inicie o server 
-</p>
+
 
 ## 🚀 Tecnologias
 
